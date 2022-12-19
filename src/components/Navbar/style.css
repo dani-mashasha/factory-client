@@ -1,0 +1,9 @@
+.nav_li {
+    padding: 15px;
+}
+
+.nav_link {
+    /* padding: 15px; */
+    text-decoration: none;
+    color: white;
+}
